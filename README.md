@@ -1,7 +1,7 @@
 # PDFeditor
-A small PDF editor that uses the python library PyPDF2
--Python Version used: 3.0+
--Python library used: PyPDF2
+A small PDF editor that uses the python library PyPDF2\n
+-Python Version used: 3.0+\n
+-Python library used: PyPDF2\n
 
 
 I've currently just made the function to merge two PDFs together.
